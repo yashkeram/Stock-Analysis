@@ -1,0 +1,9 @@
+
+---
+
+## ✅ Final commit (VERY IMPORTANT)
+
+```powershell
+git add README.md
+git commit -m "Rewrite README with project overview and methodology"
+git push

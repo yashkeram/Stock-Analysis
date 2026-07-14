@@ -3,7 +3,6 @@ import pandas as pd
 from pathlib import Path
 
 
-# Base data directory
 DATA_DIR = Path("data/raw")
 DATA_DIR.mkdir(parents=True, exist_ok=True)
 

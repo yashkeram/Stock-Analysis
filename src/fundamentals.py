@@ -76,8 +76,6 @@ def compute_growth_metrics(fundamentals: dict) -> dict:
     return growth_metrics
 
 
-# ------------------ Helper logic ------------------ #
-
 def _valuation_flag(pe, pb):
     if pe is None or pb is None:
         return "insufficient_data"

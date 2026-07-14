@@ -1,1 +1,5 @@
-pip install -r
+pandas
+numpy
+matplotlib
+yfinance
+requests

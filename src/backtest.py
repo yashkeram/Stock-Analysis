@@ -85,6 +85,3 @@ def backtest_strategy(price_df: pd.DataFrame) -> dict:
         "strategy_sharpe": strategy_sharpe,
         "outperformance_cagr": strategy_cagr - market_cagr,
     }
-
-results = backtest_strategy(price_df)
-results

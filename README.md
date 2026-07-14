@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stock Analysis & Backtesting System
 
 A modular Python project for analyzing stocks using
